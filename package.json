@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Backend REST endpoints for Shopping Catalog",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richa-verma1001/ecommerce-backend-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Richa Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richa-verma1001/ecommerce-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/richa-verma1001/ecommerce-backend-nodejs#readme"
+}
