@@ -1,13 +1,24 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const productRouter = require('./routes/products');
+const categoryRouter = require('./routes/categories');
+require('dotenv').config();
+
+const port = process.env.PORT || 3005;
+
+app.use((req, res, next) => {
+  console.log(`${req.method} ${req.originalUrl}`);
+  next();
+});
+app.use(express.json());
+app.use(productRouter);
+app.use(categoryRouter);
 
 app.get('/', (req, res) => {
-  console.log('get /');
-  res.send('<p>Test Response</p>');
+  res.send('<p>Ecommerce Attempt</p>')
 });
 
 app.listen(port, () => {
-  console.log(`Application listening on port ${port}`);
-})
+  console.log('Listening on: ' + port);
+});
 
