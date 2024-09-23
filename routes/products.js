@@ -2,7 +2,7 @@ const express = require('express');
 const router = new express.Router();
 const Product = require('../model/product');
 
-router.post('/products', (req, res) => {
+router.post('/api/products', (req, res) => {
   console.log(req.body);
   const newProduct = new Product(req.body);
 
@@ -13,7 +13,7 @@ router.post('/products', (req, res) => {
   });
 });
 
-router.get('/products', (req, res) => {
+router.get('/api/products', (req, res) => {
   Product.find().then((result) => {
     result ? res.status(200).send(result) : res.status(200).send([]);
   }).catch((err) => {
@@ -21,7 +21,7 @@ router.get('/products', (req, res) => {
   });
 });
 
-router.get('/products/:id', (req, res) => {
+router.get('/api/products/:id', (req, res) => {
   const id = req.params.id;
 
   Product.findById({_id: id}).then((result) => {

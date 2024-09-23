@@ -2,7 +2,7 @@ const express = require('express');
 const router = new express.Router();
 const Category = require('../model/category');
 
-router.post('/category', (req, res) => {
+router.post('/api/category', (req, res) => {
   console.log(req.body);
   const newCategory = new Category(req.body);
 
@@ -13,7 +13,7 @@ router.post('/category', (req, res) => {
   });
 });
 
-router.get('/category', (req, res) => {
+router.get('/api/category', (req, res) => {
   Category.find().then((result) => {
     result ? res.status(200).send(result) : res.status(200).send([]);
   }).catch((err) => {
@@ -21,7 +21,7 @@ router.get('/category', (req, res) => {
   });
 });
 
-router.get('/category/:id', (req, res) => {
+router.get('/api/category/:id', (req, res) => {
   const id = req.params.id;
 
   Category.findById({_id: id}).then((result) => {
