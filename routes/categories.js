@@ -31,5 +31,11 @@ router.get('/api/category/:id', (req, res) => {
   });
 });
 
+router.put('/api/category', (req, res) => {
+  const {name} = req.body;
+
+  
+})
+
 module.exports = router;
 

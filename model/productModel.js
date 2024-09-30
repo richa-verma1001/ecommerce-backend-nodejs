@@ -10,6 +10,12 @@ const ProductSchema = new mongoose.Schema({
     required: true, // Quantity is required
     min: 0, // Optional: you might want to prevent negative quantities
   },
+  price: {
+    type: Number, 
+  },
+  navtive_currency: {
+    type: String,
+  },
   category: {
     type: String,
   }

@@ -8,7 +8,7 @@ mongoose.connect(url, {
   useUnifiedTopology: true
 }).then((data) => {
   console.log('Connection Successful');
-}).catch(()=> {
+}).catch((err)=> {
   console.log('Connection not established' + err);
 });
 
