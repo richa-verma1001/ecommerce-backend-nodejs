@@ -3,7 +3,6 @@ const router = new express.Router();
 const Category = require('../model/category');
 
 router.post('/api/category', (req, res) => {
-  console.log(req.body);
   const newCategory = new Category(req.body);
 
   newCategory.save().then((result) => {

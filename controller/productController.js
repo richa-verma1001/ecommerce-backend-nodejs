@@ -23,11 +23,27 @@ class ProductController {
   }
 
   async getProducts(req, res){
-    try {
-      const products = await productService.getProducts();
-      res.status(200).send(products);
-    }catch(e){
-      res.status(400).send(e);
+    console.log('Get products api')
+    console.log(req.query);
+    const { category } = req.query;
+
+    if(category && category !== ""){
+      try{
+        console.log('in get products for category try' + category);
+        const products = await productService.getProductsForCategory(category);
+        res.status(200).send(products);
+      }catch(e){
+        res.status(400).send(e);
+      }
+    }else{
+      try{
+        console.log('in get all products try');
+        const products = await productService.getProducts();
+        res.status(200).send(products);
+      }catch(e){
+        res.status(400).send(e);
+      }
+      
     }
   }
 

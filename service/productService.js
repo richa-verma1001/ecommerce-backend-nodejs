@@ -20,6 +20,7 @@ class ProductService {
  }
 
  async getProducts() {
+  console.log('Get all products');
   return await Product.find();
  }
 
