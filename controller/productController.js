@@ -49,12 +49,27 @@ class ProductController {
 
   async getProductById(req, res){
     const id = req.params.id;
-    const product = await productService.getProductById(id);
+    try {      
+      const product = await productService.getProductById(id);
       res.status(200).send(product);
     }catch(e){
       res.status(400).send(e);
     }
-}
+  }
 
+  async removeProduct(req, res){
+    const id = req.params.id;
+    console.log(id);
+    try{      
+      // const product = await this.getProductById(req, res);
+      // const result = await product.deleteOne();
+      const result = productService.deleteProduct(id);
+      res.status(200).send(result);
+    }catch(e){
+      res.status(400).send(result);
+    }
+    
+  }
+}
 
 module.exports = new ProductController();

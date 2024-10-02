@@ -10,5 +10,6 @@ router.post('/api/products', ProductController.postProduct);
 router.get('/api/products', ProductController.getProducts);
 
 router.get('/api/products/:id', ProductController.getProductById);
+router.delete('/api/products/:id', ProductController.removeProduct);
 
 module.exports = router;
