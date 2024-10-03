@@ -4,6 +4,7 @@ const app = express();
 
 const productRouter = require('./routes/products');
 const categoryRouter = require('./routes/categories');
+const userRouter = require('./routes/user');
 require('dotenv').config();
 
 const port = process.env.PORT || 3005;
@@ -17,6 +18,7 @@ app.use((req, res, next) => {
 app.use(express.json());
 app.use(productRouter);
 app.use(categoryRouter);
+app.use(userRouter);
 
 app.get('/', (req, res) => {
   res.send('<p>Ecommerce Attempt</p>')

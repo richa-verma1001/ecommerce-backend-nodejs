@@ -3,7 +3,6 @@ const productService = require('../service/productService');
 class ProductController {
 
   async postProduct(req, res){
-    console.log(req.body);
     try {
       const product = await productService.createProduct(req.body);
       res.status(200).send(product);
@@ -23,7 +22,6 @@ class ProductController {
   }
 
   async getProducts(req, res){
-    console.log('Get products api')
     console.log(req.query);
     const { category } = req.query;
 
