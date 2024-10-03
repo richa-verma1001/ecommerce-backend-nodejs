@@ -1,10 +1,14 @@
 const UserService = require('../service/userService')
+const bcrypt = require('bcrypt');
 
 class UserController {
+
   async postUser(req, res){
-    const data = req.body;
+    const {name, email, password } = req.body;
+    const hashedPassword = await bcrypt.hash(password, 8);
+
     try{
-      const result = await UserService.createUser(data);
+      const result = await UserService.createUser({name, email, password: hashedPassword});
       res.status(200).send(result);
     }catch(e){
       res.status(400).send(e);
