@@ -11,6 +11,7 @@ const userSchema = mongoose.Schema({
   email: {
     type: String, 
     required: true,
+    unique: true,
     trim: true,
     lowercase: true,
     validate(value) {
@@ -41,7 +42,7 @@ const userSchema = mongoose.Schema({
 });
 userSchema.pre('save', async function(next) {
   const user = this;
-  
+
   if(user.isModified('password')){
     user.password = await bcrypt.hash(user.password, 8);
   }
