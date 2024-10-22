@@ -15,7 +15,7 @@ class ProductController {
     console.log(jsonData);
     try {
       const products = await productService.createProducts(jsonData);
-      consle.log(products);
+      console.log(products);
     }catch(e){
       console.log(e);
     }    
