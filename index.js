@@ -7,7 +7,7 @@ const categoryRouter = require('./routes/categories');
 const userRouter = require('./routes/user');
 require('dotenv').config();
 
-const port = process.env.PORT || 3005;
+const port = process.env.APP_PORT || 3005;
 
 
 app.use(cors());
