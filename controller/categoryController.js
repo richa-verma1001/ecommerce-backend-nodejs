@@ -11,6 +11,16 @@ class CategoryController {
     }
   }
 
+  async postCategories(jsonData){
+    console.log(jsonData);
+    try{
+      const result = await categoryService.createCategories(jsonData);
+      console.log(result);
+    }catch(e){
+      console.log(e);
+    }
+  }
+
   async getCategoryById(req, res){
     const id = req.params.id;
     try{
