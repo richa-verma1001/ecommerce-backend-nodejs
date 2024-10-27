@@ -66,3 +66,7 @@ MONGO_URL
 #### CI/CD
 
 Auto deployed to Render
+
+#####
+
+@copyright data reused from https://fakeapi.platzi.com/

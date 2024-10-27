@@ -5,9 +5,11 @@ const ProductSchema = new mongoose.Schema({
     type: String,
     required: true, // Name is required
   },
+  description: {
+    type: String,
+  },
   quantity: {
     type: Number,
-    required: true, // Quantity is required
     min: 0, // Optional: you might want to prevent negative quantities
   },
   price: {
