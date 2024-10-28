@@ -3,108 +3,126 @@
 		"price": 69,
 		"description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
 		"imageUrl": "https://i.imgur.com/cHddUCu.jpeg",
-		"category": "T-Shirts & Hoodies"
+    "tag": "trending",
+		"category": "T-Shirts & Hoodies"    
 	},{
 		"name": "Classic Black Hooded Sweatshirt",
 		"price": 79,
 		"description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
 		"imageUrl": "https://i.imgur.com/cSytoSD.jpeg",
+    "tag": "new",
 		"category": "T-Shirts & Hoodies"
 	},{
 		"name": "Classic Comfort Fit Joggers",
 		"price": 25,
 		"description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
 		"imageUrl": "https://i.imgur.com/ZKGofuB.jpeg",
+    "tag": "new",
 		"category": "Pants & Shorts"
 	},{
 		"name": "Classic Comfort Drawstring Joggers",
 		"price": 79,
 		"description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
 		"imageUrl": "https://i.imgur.com/mp3rUty.jpeg",
+    "tag": "popular",
 		"category": "Pants & Shorts"
 	},{
 		"name": "Classic Red Jogger Sweatpants",
 		"price": 98,
 		"description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
 		"imageUrl": "https://i.imgur.com/9LFjwpI.jpeg",
+    "tag": "new",
 		"category": "Pants & Shorts"
 	},{
 		"name": "Classic Navy Blue Baseball Cap",
 		"price": 61,
 		"description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
 		"imageUrl": "https://i.imgur.com/R3iobJA.jpeg",
+    "tag": "new",
 		"category": "Accessories"
 	},{
 		"name": "Classic Blue Baseball Cap",
 		"price": 86,
 		"description": "Top off your casual look with our Classic Blue Baseball Cap, made from high-quality materials for lasting comfort. Featuring a timeless six-panel design with a pre-curved visor, this adjustable cap offers both style and practicality for everyday wear.",
 		"imageUrl": "https://i.imgur.com/wXuQ7bm.jpeg",
+    "tag": "new",
 		"category": "Accessories"
 	},{
 		"name": "Classic Red Baseball Cap",
 		"price": 35,
 		"description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
 		"imageUrl": "https://i.imgur.com/cBuLvBi.jpeg",
+    "tag": "new",
 		"category": "Accessories"
 	},{
 		"name": "Classic Black Baseball Cap",
 		"price": 58,
 		"description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
 		"imageUrl": "https://i.imgur.com/KeqG6r4.jpeg",
+    "tag": "trending",
 		"category": "Accessories"
 	},{
 		"name": "Classic Olive Chino Shorts",
 		"price": 84,
 		"description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
 		"imageUrl": "https://i.imgur.com/UsFIvYs.jpeg",
+    "tag": "new",
 		"category": "Pants & Shorts"
 	},{
 		"name": "Classic High-Waisted Athletic Shorts",
 		"price": 43,
 		"description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
 		"imageUrl": "https://i.imgur.com/eGOUveI.jpeg",
+    "tag": "trending",
 		"category": "Pants & Shorts"
 	},{
 		"name": "Classic White Crew Neck T-Shirt",
 		"price": 39,
 		"description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
 		"imageUrl": "https://i.imgur.com/axsyGpD.jpeg",
+    "tag": "new",
 		"category": "T-Shirts & Hoodies"
 	},{
 		"name": "Classic White Tee - Timeless Style and Comfort",
 		"price": 73,
 		"description": "Elevate your everyday wardrobe with our Classic White Tee. Crafted from premium soft cotton material, this versatile t-shirt combines comfort with durability, perfect for daily wear. Featuring a relaxed, unisex fit that flatters every body type, it's a staple piece for any casual ensemble. Easy to care for and machine washable, this white tee retains its shape and softness wash after wash. Pair it with your favorite jeans or layer it under a jacket for a smart look.",
 		"imageUrl": "https://i.imgur.com/Y54Bt8J.jpeg",
+    "tag": "new",
 		"category": "T-Shirts & Hoodies"
 	},{
 		"name": "Classic Black T-Shirt",
 		"price": 35,
 		"description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
 		"imageUrl": "https://i.imgur.com/9DqEOV5.jpeg",
+    "tag": "popular",
 		"category": "T-Shirts & Hoodies"
 	},{
 		"name": "Sleek White & Orange Wireless Gaming Controller",
 		"price": 69,
 		"description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
 		"imageUrl": "https://i.imgur.com/ZANVnHE.jpeg",
+    "tag": "new",
 		"name": "Electronics"
 	},{
 		"name": "Sleek Wireless Headphone & Inked Earbud Set",
 		"price": 44,
 		"description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
 		"imageUrl": "https://i.imgur.com/yVeIeDa.jpeg",
+    "tag": "new",
 		"category": "Electronics"
 	},{
 		"name": "Sleek Comfort-Fit Over-Ear Headphones",
 		"price": 28,
 		"description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
 		"imageUrl": "https://i.imgur.com/SolkFEB.jpeg",
+    "tag": "new",
 		"category": "Electronics"
 	},{
 		"name": "Efficient 2-Slice Toaster",
 		"price": 48,
 		"description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
 		"imageUrl": "https://i.imgur.com/keVCVIa.jpeg",
+    "tag": "trending",
 		"category": "Electronics"
 	},{
 		"name": "Sleek Wireless Computer Mouse",
@@ -117,30 +135,35 @@
 		"price": 43,
 		"description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
 		"imageUrl": "https://i.imgur.com/OKn1KFI.jpeg",
+    "tag": "new",
 		"category": "Electronics"
 	},{
 		"name": "Sleek Modern Laptop for Professionals",
 		"price": 97,
 		"description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
 		"imageUrl": "https://i.imgur.com/ItHcq7o.jpeg",
+    "tag": "new",
 		"category": "Electronics"
 	},{
 		"name": "Stylish Red & Silver Over-Ear Headphones",
 		"price": 39,
 		"description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
 		"imageUrl": "https://i.imgur.com/YaSqa06.jpeg",
+    "tag": "popular",
 		"category": "Electronics"
 	},{
 		"name": "Sleek Mirror Finish Phone Case",
 		"price": 27,
 		"description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
 		"imageUrl": "https://i.imgur.com/yb9UQKL.jpeg",
+    "tag": "new",
 		"name": "Electronics"
 	},{
 		"name": "Sleek Smartwatch with Vibrant Display",
 		"price": 16,
 		"description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
 		"imageUrl": "https://i.imgur.com/LGk9Jn2.jpeg",
+    "tag": "new",
 		"category": "Electronics"
 	},{
 		"name": "Sleek Modern Leather Sofa",
@@ -177,24 +200,28 @@
 		"price": 49,
 		"description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
 		"imageUrl": "https://i.imgur.com/3oXNBst.jpeg",
+    "tag": "trending",
 		"category": "Furniture"
 	},{
 		"name": "Modern Ergonomic Office Chair",
 		"price": 71,
 		"description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
 		"imageUrl": "https://i.imgur.com/3dU0m72.jpeg",
+    "tag": "new",
 		"category": "Furniture"
 	},{
 		"name": "Futuristic Holographic Soccer Cleats",
 		"price": 39,
 		"description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
 		"imageUrl": "https://i.imgur.com/qNOjJje.jpeg",
+    "tag": "new",
 		"category": "Shoes"
 	},{
 		"name": "Rainbow Glitter High Heels",
 		"price": 39,
 		"description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
 		"imageUrl": "https://i.imgur.com/62gGzeF.jpeg",
+    "tag": "popular",
 		"category": "Shoes"
 	},{
 		"name": "Chic Summer Denim Espadrille Sandals",
@@ -213,78 +240,91 @@
 		"price": 84,
 		"description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
 		"imageUrl": "https://i.imgur.com/mcW42Gi.jpeg",
+    "tag": "new",
 		"category": "Shoes"
 	},{
 		"name": "Futuristic Silver and Gold High-Top Sneaker",
 		"price": 68,
 		"description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
 		"imageUrl": "https://i.imgur.com/npLfCGq.jpeg",
+    "tag": "new",
 		"category": "Shoes"
 	},{
 		"name": "Futuristic Chic High-Heel Boots",
 		"price": 36,
 		"description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
 		"imageUrl": "https://i.imgur.com/HqYqLnW.jpeg",
+    "tag": "trending",
 		"category": "Shoes"
 	},{
 		"name": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
 		"price": 53,
 		"description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
 		"imageUrl": "https://i.imgur.com/AzAY4Ed.jpeg",
+    "tag": "new",
 		"category": "Shoes"
 	},{
 		"name": "Elegant Purple Leather Loafers",
 		"price": 17,
 		"description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
 		"imageUrl": "https://i.imgur.com/Au8J9sX.jpeg",
+    "tag": "new",
 		"category": "Shoes"
 	},{
 		"name": "Classic Blue Suede Casual Shoes",
 		"price": 39,
 		"description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
 		"imageUrl": "https://i.imgur.com/sC0ztOB.jpeg",
+    "tag": "popular",
 		"category": "Shoes"
 	},{
 		"name": "Sleek Futuristic Electric Bicycle",
 		"price": 22,
 		"description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
 		"imageUrl": "https://i.imgur.com/BG8J0Fj.jpg",
+    "tag": "new",
 		"category": "Miscellaneous"
 	},{
 		"name": "Sleek All-Terrain Go-Kart",
 		"price": 37,
 		"description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
 		"imageUrl": "https://i.imgur.com/Ex5x3IU.jpg",
+    "tag": "new",
 		"category": "Miscellaneous"
 	},{
 		"name": "Radiant Citrus Eau de Parfum",
 		"price": 73,
 		"description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
 		"imageUrl": "https://i.imgur.com/xPDwUb3.jpg",
+    "tag": "trending",
 		"category": "Miscellaneous"
 	},{
 		"name": "Sleek Olive Green Hardshell Carry-On Luggage",
 		"price": 48,
 		"description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
 		"imageUrl": "https://i.imgur.com/jVfoZnP.jpg",
+    "tag": "new",
 		"category": "Miscellaneous"
 	},{
 		"name": "Chic Transparent Fashion Handbag",
 		"price": 61,
 		"description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
 		"imageUrl": "https://i.imgur.com/Lqaqz59.jpg",
+    "tag": "new",
 		"category": "Miscellaneous"
 	},{
 		"name": "Trendy Pink-Tinted Sunglasses",
 		"price": 38,
 		"description": "Step up your style game with these fashionable black-framed, pink-tinted sunglasses. Perfect for making a statement while protecting your eyes from the glare. Their bold color and contemporary design make these shades a must-have accessory for any trendsetter looking to add a pop of color to their ensemble.",
 		"imageUrl": "https://i.imgur.com/0qQBkxX.jpg",
+    "tag": "new",
 		"category": "Miscellaneous"
 	},{
 		"name": "Elegant Glass Tumbler Set",
 		"price": 50,
 		"description": "Enhance your drinkware collection with our sophisticated set of glass tumblers, perfect for serving your favorite beverages. This versatile set includes both clear and subtly tinted glasses, lending a modern touch to any table setting. Crafted with quality materials, these durable tumblers are designed to withstand daily use while maintaining their elegant appeal.",
 		"imageUrl": "https://i.imgur.com/TF0pXdL.jpg",
+    "tag": "popular",
 		"category": "Miscellaneous"
 	}
 ]

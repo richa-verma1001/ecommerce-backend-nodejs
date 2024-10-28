@@ -19,19 +19,23 @@ class ProductService {
   return await Product.insertMany(productArrData);
  }
 
- async getProducts() {
-  console.log('Get all products');
-  return await Product.find();
+//  async getProducts() {
+//   console.log('Get all products');
+//   return await Product.find();
+//  }
+
+ async getProducts(queryObj) {  
+    return await Product.find(queryObj);
  }
 
  async getProductById(productId){
   return await Product.findById(productId);
  }
 
- async getProductsForCategory(categoryName){
-  console.log(`categoryName: ${categoryName}`);
-  return await Product.find({category: categoryName});
- }
+//  async getProductsForCategory(categoryName){
+//   console.log(`categoryName: ${categoryName}`);
+//   return await Product.find({category: categoryName});
+//  }
 
  async deleteProducts(condition){
   return await Product.deleteMany(condition);

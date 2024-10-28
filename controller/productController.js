@@ -21,27 +21,37 @@ class ProductController {
     }    
   }
 
+  // async getProducts(req, res){
+  //   console.log(req.query);
+  //   const { category, tag } = req.query;
+
+  //   if(category && category !== ""){
+  //     try{
+  //       console.log('in get products for category try' + category);
+  //       const products = await productService.getProductsForCategory(category);
+  //       res.status(200).send(products);
+  //     }catch(e){
+  //       res.status(400).send(e);
+  //     }
+  //   }else{
+  //     try{
+  //       console.log('in get all products try');
+  //       const products = await productService.getProducts();
+  //       res.status(200).send(products);
+  //     }catch(e){
+  //       res.status(400).send(e);
+  //     }
+      
+  //   }
+  // }
+
   async getProducts(req, res){
     console.log(req.query);
-    const { category } = req.query;
-
-    if(category && category !== ""){
-      try{
-        console.log('in get products for category try' + category);
-        const products = await productService.getProductsForCategory(category);
-        res.status(200).send(products);
-      }catch(e){
-        res.status(400).send(e);
-      }
-    }else{
-      try{
-        console.log('in get all products try');
-        const products = await productService.getProducts();
-        res.status(200).send(products);
-      }catch(e){
-        res.status(400).send(e);
-      }
-      
+    try{
+      const products = await productService.getProducts(req.query);
+      res.status(200).send(products);
+    }catch(e){
+      res.status(400).send(e);
     }
   }
 
@@ -51,6 +61,7 @@ class ProductController {
       const product = await productService.getProductById(id);
       res.status(200).send(product);
     }catch(e){
+      console.log(e);
       res.status(400).send(e);
     }
   }
