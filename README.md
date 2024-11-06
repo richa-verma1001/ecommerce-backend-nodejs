@@ -1,14 +1,21 @@
-#### Build and Run
+# Node.js API Project
 
-npm install
-npm run
+### Overview
+A Node.js API application for managing data, with CRUD operations, pagination, and authentication. Built with Node.js, Express, and MongoDB.
 
-#### About
+### Features
+- User Authentication (Auth0)
+- CRUD operations
+- Error handling and logging
+- Pagination and filtering
 
-Service API to for ecommerce application
+### Setup Instructions
+1. Clone the repository.
+2. Install dependencies with `npm install`.
+3. Configure environment variables in `.env`.
+4. Start the app: `npm start`.
 
-#### APIs
-
+### APIs
 GET /api/category
 GET /api/category/:id
 
@@ -19,54 +26,19 @@ GET /api/users
 GET /api/user/:id
 
 POST /api/category
-
-- Categrory Schema:
-
-```name: {
-    type: String,
-    required: true,
-  }
-```
-
 POST /api/product
-
-- Product schema:
-  {
-  name: {
-  type: String,
-  required: true, // Name is required
-  },
-  quantity: {
-  type: Number,
-  required: true, // Quantity is required
-  min: 0, // Optional: you might want to prevent negative quantities
-  },
-  price: {
-  type: Number,
-  },
-  navtive_currency: {
-  type: String,
-  },
-  category: {
-  type: String,
-  }
-  }
-
 POST /api/user
--User Schema: {name: required, email: required, password: required, age}
 
 DELETE /api/products/:id
 DELETE /api/user/:id
 
-#### ENV variables
-
+### ENV variables
 PORT
 MONGO_URL
 
 #### CI/CD
-
 Auto deployed to Render
 
-#####
+
 
 @copyright data reused from https://fakeapi.platzi.com/
