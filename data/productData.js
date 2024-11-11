@@ -52,7 +52,7 @@
 		"price": 35,
 		"description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
 		"imageUrl": "https://i.imgur.com/cBuLvBi.jpeg",
-    "tag": "new",
+    "tag": "trending",
 		"category": "Accessories"
 	},{
 		"name": "Classic Black Baseball Cap",
@@ -115,7 +115,7 @@
 		"price": 28,
 		"description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
 		"imageUrl": "https://i.imgur.com/SolkFEB.jpeg",
-    "tag": "new",
+    "tag": "trending",
 		"category": "Electronics"
 	},{
 		"name": "Efficient 2-Slice Toaster",
@@ -170,30 +170,35 @@
 		"price": 53,
 		"description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
 		"imageUrl": "https://i.imgur.com/Qphac99.jpeg",
+    "tag": "trending",
 		"category": "Furniture"
 	},{
 		"name": "Mid-Century Modern Wooden Dining Table",
 		"price": 24,
 		"description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
 		"imageUrl": "https://i.imgur.com/DMQHGA0.jpeg",
+    "tag": "popular",
 		"name": "Furniture"
 	},{
 		"name": "Elegant Golden-Base Stone Top Dining Table",
 		"price": 66,
 		"description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
 		"imageUrl": "https://i.imgur.com/NWIJKUj.jpeg",
+    "tag": "popular",
 		"category": "Furniture"
 	},{
 		"name": "Modern Elegance Teal Armchair",
 		"price": 25,
 		"description": "Elevate your living space with this beautifully crafted armchair, featuring a sleek wooden frame that complements its vibrant teal upholstery. Ideal for adding a pop of color and contemporary style to any room, this chair provides both superb comfort and sophisticated design. Perfect for reading, relaxing, or creating a cozy conversation nook.",
 		"imageUrl": "https://i.imgur.com/6wkyyIN.jpeg",
+    "tag": "trending",
 		"category": "Furniture"
 	},{
 		"name": "Elegant Solid Wood Dining Table",
 		"price": 67,
 		"description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
 		"imageUrl": "https://i.imgur.com/4lTaHfF.jpeg",
+    "tag": "new",
 		"category": "Furniture"
 	},{
 		"name": "Modern Minimalist Workstation Setup",
@@ -214,7 +219,7 @@
 		"price": 39,
 		"description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
 		"imageUrl": "https://i.imgur.com/qNOjJje.jpeg",
-    "tag": "new",
+    "tag": "trending",
 		"category": "Shoes"
 	},{
 		"name": "Rainbow Glitter High Heels",
@@ -228,12 +233,14 @@
 		"price": 33,
 		"description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
 		"imageUrl": "https://i.imgur.com/9qrmE1b.jpeg",
+    "tag": "popular",
 		"category": "Shoes"
 	},{
 		"name": "Vibrant Runners: Bold Orange & Blue Sneakers",
 		"price": 27,
 		"description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
 		"imageUrl": "https://i.imgur.com/hKcMNJs.jpeg",
+    "tag": "trending",
 		"category": "Shoes"
 	},{
 		"name": "Vibrant Pink Classic Sneakers",
@@ -282,7 +289,7 @@
 		"price": 22,
 		"description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
 		"imageUrl": "https://i.imgur.com/BG8J0Fj.jpg",
-    "tag": "new",
+    "tag": "popular",
 		"category": "Miscellaneous"
 	},{
 		"name": "Sleek All-Terrain Go-Kart",
@@ -303,21 +310,21 @@
 		"price": 48,
 		"description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
 		"imageUrl": "https://i.imgur.com/jVfoZnP.jpg",
-    "tag": "new",
+    "tag": "popular",
 		"category": "Miscellaneous"
 	},{
 		"name": "Chic Transparent Fashion Handbag",
 		"price": 61,
 		"description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
 		"imageUrl": "https://i.imgur.com/Lqaqz59.jpg",
-    "tag": "new",
+    "tag": "popular",
 		"category": "Miscellaneous"
 	},{
 		"name": "Trendy Pink-Tinted Sunglasses",
 		"price": 38,
 		"description": "Step up your style game with these fashionable black-framed, pink-tinted sunglasses. Perfect for making a statement while protecting your eyes from the glare. Their bold color and contemporary design make these shades a must-have accessory for any trendsetter looking to add a pop of color to their ensemble.",
 		"imageUrl": "https://i.imgur.com/0qQBkxX.jpg",
-    "tag": "new",
+    "tag": "trending",
 		"category": "Miscellaneous"
 	},{
 		"name": "Elegant Glass Tumbler Set",
