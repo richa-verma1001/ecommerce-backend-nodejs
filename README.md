@@ -1,4 +1,4 @@
-# Node.js API Project
+# Inspire APIs (An Ecommerce Application)
 
 ### Overview
 A Node.js API application for managing data, with CRUD operations, pagination, and authentication. Built with Node.js, Express, and MongoDB.
